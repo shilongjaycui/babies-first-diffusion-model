@@ -1,2 +1,2 @@
-# babies-first-diffusion-model
+# babys-first-diffusion-model
 This repository is named by Harry Winston Sullivan.
